@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2025-01-01
+img: hush.png
+alt: image-alt
+project-date: Spring 2025
+client: Pelifarmi
+category: Game Development
+description: Top-down 3D stealth adventure game, developed in the span of ~5 weeks for the Pelifarmi training program. I was in charge of implementing enemy AI and various game mechanics, utilizing Unity 6.
+---
