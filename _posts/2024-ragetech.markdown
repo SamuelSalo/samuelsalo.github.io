@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024
 img: ragetech.png
 alt: image-alt
-project-date: April 2014
+project-date: Fall 2024
 client: Pelifarmi
 category: Game Development
 description: Third-person 3D souls-like shooter made for Pelifarmi training program in the span of ~5 weeks. I was in charge of game development & programming in Unity 6.
