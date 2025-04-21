@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 5
-date: 2024-09-01
+date: 2024-01-01
 img: boiro.png
 alt: image-alt
-project-date: Fall 2024
+project-date: Spring 2024
 client: Pelifarmi
 category: Web Development
 description: Isometric 2D roguelike bullet-hell shooter developed for the Pelifarmi training program in a span of ~5 weeks. I was in charge of game programming and implemented most major game mechanics. https://samuel-salo.itch.io/boiro/
