@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Fall 2022
 client: KAMK
 category: Game Development
-description: 2D hypercasual mobile platformer for a university course. Released on Google Play with ads, analytics, leaderboard, etc.
+description: 2D hypercasual mobile platformer for a university course. Development time of ~3 months, team of 5 people. In my role of Lead Programmer, I was responsible for most of the programming in the project, and managing the overall development. The game was released on Google Play with ads, analytics, leaderboard, etc.
 ---
