@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Spring 2025
 client: Pelifarmi
 category: Game Development
-description: A survival shooter in an electronic body horror world. Prototype made for Pelifarmi training program in the span of ~5 weeks. My tasks included game development & programming in Unity 6.
+description: A survival shooter in an electronic body horror world. Prototype made for Pelifarmi training program in the span of ~5 weeks. My tasks included game development & programming in Unity 6. https://samuel-salo.itch.io/clikr
 ---
