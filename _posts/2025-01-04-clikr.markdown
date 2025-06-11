@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+date: 2025-05-16
+img: clikr.png
+alt: image-alt
+project-date: Spring 2025
+client: Pelifarmi
+category: Game Development
+description: A survival shooter in an electronic body horror world. Prototype made for Pelifarmi training program in the span of ~5 weeks. My tasks included game development & programming in Unity 6.
+---
