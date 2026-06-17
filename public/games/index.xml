@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Summit</title>
+    <link>//localhost:1313/games/</link>
+    <description>Recent content in Games on Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>samuel.j.salo@gmail.com (Samuel Salo)</managingEditor>
+    <webMaster>samuel.j.salo@gmail.com (Samuel Salo)</webMaster>
+    <copyright>© 2026 Samuel Salo</copyright>
+    <lastBuildDate>Sun, 10 May 2026 02:07:15 +0200</lastBuildDate><atom:link href="//localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Audiobook Mastering</title>
+      <link>//localhost:1313/games/audiobook/</link>
+      <pubDate>Sun, 10 May 2026 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/audiobook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sci-Fi ARPG Project</title>
+      <link>//localhost:1313/games/scifiarpgproject/</link>
+      <pubDate>Fri, 10 Apr 2026 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/scifiarpgproject/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity &#43; Ink LLM Dialogue Generator</title>
+      <link>//localhost:1313/games/dialoguegenerator/</link>
+      <pubDate>Tue, 10 Mar 2026 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/dialoguegenerator/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/dialoguegenerator/featured.png" />
+    </item>
+    
+    <item>
+      <title>CLIKR</title>
+      <link>//localhost:1313/games/clikr/</link>
+      <pubDate>Tue, 10 Jun 2025 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/clikr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hush</title>
+      <link>//localhost:1313/games/hush/</link>
+      <pubDate>Sat, 19 Apr 2025 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/hush/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ragetech</title>
+      <link>//localhost:1313/games/ragetech/</link>
+      <pubDate>Thu, 19 Sep 2024 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/ragetech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BOIRO</title>
+      <link>//localhost:1313/games/boiro/</link>
+      <pubDate>Mon, 19 Aug 2024 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/boiro/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>//localhost:1313/games/thesis/</link>
+      <pubDate>Sat, 10 Jun 2023 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/thesis/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/thesis/featured.png" />
+    </item>
+    
+    <item>
+      <title>Set in Stone</title>
+      <link>//localhost:1313/games/setinstone/</link>
+      <pubDate>Sat, 19 Nov 2022 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/setinstone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project Reincarnation</title>
+      <link>//localhost:1313/games/projectreincarnation/</link>
+      <pubDate>Mon, 19 Sep 2022 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/projectreincarnation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pogoplunger</title>
+      <link>//localhost:1313/games/pogoplunger/</link>
+      <pubDate>Fri, 10 Jun 2022 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/pogoplunger/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/pogoplunger/featured.png" />
+    </item>
+    
+    <item>
+      <title>HearthstoneBot</title>
+      <link>//localhost:1313/games/hearthstonebot/</link>
+      <pubDate>Wed, 10 Jun 2020 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/hearthstonebot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/hearthstonebot/featured.png" />
+    </item>
+    
+    <item>
+      <title>Redneck Lawnmower Racing</title>
+      <link>//localhost:1313/games/rednecklawnmowerracing/</link>
+      <pubDate>Wed, 10 Jun 2020 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/rednecklawnmowerracing/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/rednecklawnmowerracing/featured.png" />
+    </item>
+    
+    <item>
+      <title>Bob &amp; Golden Horn</title>
+      <link>//localhost:1313/games/bobgoldenhorn/</link>
+      <pubDate>Mon, 19 Aug 2019 02:07:15 +0200</pubDate>
+      <author>samuel.j.salo@gmail.com (Samuel Salo)</author>
+      <guid>//localhost:1313/games/bobgoldenhorn/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
